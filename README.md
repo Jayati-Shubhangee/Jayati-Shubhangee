@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Jayati%20Shubhangee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Jayati</h1>
+<h1 align="center">Hi 👋, I'm Jayati Shubhangee</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+DSA+%7C+Web+Development+%7C+Machine+Learning;Building+real-world+projects+with+clean+code+and+strong+logic;Always+learning%2C+improving%2C+and+shipping" alt="Typing SVG" />
@@ -61,10 +61,11 @@
 ---
 
 ### ⚡️ Where to find me
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/jayati-shubhangee-84151b315" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&height=60&lines=Software+Engineering+Student;Full-Stack+Developer+%7C+Problem+Solver;Machine+Learning+Explorer;Turning+Ideas+Into+Scalable+Solutions"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
