@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Jayati Shubhangee</h1>
 
 <h3 align="center">
-Software Engineering Student | Full-Stack Developer | Machine Learning Enthusiast
+ComputerScience Engineering Student | Backend Development | Strengthening AI/ML fundamentals
 </h3>
 
 <!-- SINGLE Typing Animation (Fixed) -->
@@ -24,7 +24,7 @@ Software Engineering Student | Full-Stack Developer | Machine Learning Enthusias
 
 <p align="center">
   <b>
-    Curious Builder • DSA Practitioner • Web Developer • ML Explorer • Growing Into a Strong Software Engineer
+    Curious Builder • DSA Practitioner • Web Developer • AI/ML Enthusiast • Growing Into a Strong Software Engineer
   </b>
 </p>
 
@@ -34,7 +34,7 @@ Software Engineering Student | Full-Stack Developer | Machine Learning Enthusias
 
 🔹 Software Engineering student passionate about building impactful technology solutions
 
-🔹 Strong interest in Data Structures & Algorithms, Full-Stack Development, Cloud Computing, and AI/ML
+🔹 Strong interest in Data Structures & Algorithms, AI/ML, Generative and Agentic AI fundamentals and how real world system works .
 
 🔹 Experienced in transforming ideas into practical projects through continuous learning and hands-on development
 
